@@ -1,6 +1,6 @@
 # Hey, I'm Matthew 👋
 
-I'm currently working at Heartland Business Systems as a Software Engineering Intern
+I am a Software Engineering Intern at Heartland Business Systems 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgehrt1&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 

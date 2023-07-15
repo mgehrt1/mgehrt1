@@ -1,6 +1,6 @@
 # Hey, I'm Matthew 👋
 
-I am a Software Engineering Intern at Heartland Business Systems 
+I am a Full Stack Software Engineer and am currently a rising Junior at the University of Wisconsin - Madison. I am double majoring in Computer Engineering & Computer Science, and I love to learn about and apply myself in the world of programming.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgehrt1&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
